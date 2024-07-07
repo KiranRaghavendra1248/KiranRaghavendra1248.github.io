@@ -117,9 +117,8 @@ const workExperiences = {
       companylogo: require("./assets/images/esrilogo.png"),
       date: "June 2024 – Present",
       descBullets: [
-        "Enhanced search algorithm using semantic search feature and pushed to production by converting model to ONNX",
-        "Implemented mock semantic search by evaluating finetuned sentence embedding models all-mini-LM-V6-0.2 on geospatial dataset",
-        "Developed framework for topic based evaluation of semantic search using Mistral 7B LLM as Judge",
+        "Implemented mock semantic search by evaluating finetuned sentence embedding models all-mini-LM-V6-0.2 on search results dataset",
+        "Working on developing unsupervised framework for topic based evaluation of semantic search using Mistral 7B LLM as Judge",
         "Proposed method to remove bias and unwanted association from semantic search model manually without finetuning"
       ]
     },
