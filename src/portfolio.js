@@ -87,7 +87,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Backend Frameworks(Express, Node, Flask, REST API)", 
+      Stack: "Backend Frameworks(Express, Node, Flask, REST API, PostgreSQL, MySQL)", 
       progressPercentage: "80%" 
     },
     {
