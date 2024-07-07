@@ -119,6 +119,7 @@ const workExperiences = {
       descBullets: [
         "Implemented mock semantic search by evaluating finetuned sentence embedding models all-mini-LM-V6-0.2 on search results dataset",
         "Working on developing unsupervised framework for topic based evaluation of semantic search using Mistral 7B LLM as Judge",
+        "Researched prompt engineering techniques for optimal LLM response and latency & methods to remove bias and unwanted associations",
         "Proposed method to remove bias and unwanted association from semantic search model manually without finetuning"
       ]
     },
@@ -126,7 +127,7 @@ const workExperiences = {
       role: "Co-Founder",
       company: "RideShare",
       companylogo: require("./assets/images/ridesharelogo.png"),
-      date: "Sept 2020 – June 2022",
+      date: "Sept. 2020 – June 2022",
       descBullets: [
         "Designed system architecture & database schema by creating a High Level Design of Client Server architecture",
         "Created REST API routes to handle ride submission, ride requests, driver matching, and ride cancellation on Node and Express server-side integrated with MySQL database.",
