@@ -136,7 +136,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Firmware Engineer",
+      role: "Embedded Software Engineer",
       company: "Western Digital",
       companylogo: require("./assets/images/wdlogo.jpeg"),
       date: "Jan. 2022 – Aug. 2023",
@@ -146,17 +146,6 @@ const workExperiences = {
         "Developed regression log summarization tool using Node, Express, HuggingFace and created API routes for remote calls resulting in 40% decrease in bug burndown time.",
         "Debugged and fixed production bugs and mentored interns advocating clean coding practices"
       ] 
-    },
-    
-    {
-      role: "Machine Learning Intern",
-      company: "Google Developer Student Clubs",
-      companylogo: require("./assets/images/gdsclogo.png"),
-      date: "Sept 2020 – June 2022",
-      descBullets: [
-        "Spearheaded development of chatbot using Encoder-Decoder transformer and integrated with college website using Flask API calls to the chatbot.",
-        "Mentored students as the lead instructor for Deep Learning Bootcamp attended by over 200+ students"
-      ]
     }
   ]
 };
